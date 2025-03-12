@@ -35,7 +35,7 @@ PLACAS BR is a simple FiveM script designed to replace default vehicle license p
 - **Project Status:** This is part of a stalled project. I’m sharing some components since I’m unsure if it will be completed.
 
 ### 📸 In-Game Preview
-![In-Game Preview](https://i.postimg.cc/xTPmbMyQ/image.png)
+![In-Game Preview](https://i.postimg.cc/rcBN39DD/image.png)
 
 ### 📝 License
 Distributed under the MIT License. See the `LICENSE` file for more details.
@@ -77,7 +77,7 @@ PLACAS BR - Mercosul é um script simples para FiveM que substitui as placas de 
 - **Status do Projeto:** Este é parte de um projeto parado. Estou compartilhando algumas coisas, pois não sei se ele será concluído.
 
 ### 📸 Visualização no Jogo
-![Visualização no Jogo](https://i.postimg.cc/xTPmbMyQ/image.png)
+![Visualização no Jogo](https://i.postimg.cc/rcBN39DD/image.png)
 
 ### 📝 Licença
 Distribuído sob a Licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
